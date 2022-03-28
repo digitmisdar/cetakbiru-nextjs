@@ -1,2 +1,2 @@
-## Cetak Biru
-dimodifikasi oleh @misdar.k
+## NextJs Template
+oleh @misdar.k
